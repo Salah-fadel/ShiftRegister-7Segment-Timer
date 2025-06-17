@@ -23,7 +23,7 @@ Each digit of the 7-segment display is controlled using shift registers. The shi
 
 ## 🖼 Circuit Diagram
 
-![Circuit Diagram](ShiftRegister-7Segment-Timer.jpg)
+[Circuit Diagram](ShiftRegister-7Segment-Timer.jpg)
 
 ## How It Works
 

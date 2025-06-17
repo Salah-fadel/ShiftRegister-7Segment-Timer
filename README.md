@@ -21,6 +21,10 @@ This Arduino project displays a 4-digit counter using shift registers and 7-segm
 
 Each digit of the 7-segment display is controlled using shift registers. The shiftOut function is used to control which digit is active and what number it displays.
 
+## 🖼 Circuit Diagram
+
+![Circuit Diagram](ShiftRegister-7Segment-Timer.jpg)
+
 ## How It Works
 
 - The count variable increments every 1000 ms (1 second).
